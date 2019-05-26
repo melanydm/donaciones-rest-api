@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: menan
+Build-Jdk: 11.0.2
+Implementation-Title: Perifericos REST API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.javabeat
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/perifericos-rest-api
+Created-By: Maven Integration for Eclipse
+
